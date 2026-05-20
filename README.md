@@ -45,7 +45,7 @@ while True:
 ```
 ## OUPUT - ARP
 ## SERVER:
-<img width="1920" height="1020" alt="Screenshot 2026-05-20 104001" src="https://github.com/user-attachments/assets/367279b7-9930-4baa-a662-bf83a0625eb8" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-20 111330" src="https://github.com/user-attachments/assets/9b88a22c-954d-4532-a9c5-980dc93967f0" />
 
 ## CLIENT:
 <img width="1920" height="1020" alt="Screenshot 2026-05-20 103950" src="https://github.com/user-attachments/assets/b26d5f89-74cd-4b97-8496-bf546e7b17a6" />
@@ -78,7 +78,7 @@ while True:
 ```
 ## OUPUT -RARP
 ## SERVER:
-<img width="1920" height="1020" alt="Screenshot 2026-05-20 105418" src="https://github.com/user-attachments/assets/4e454bbb-339b-4068-a34a-465c213b124c" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-20 111517" src="https://github.com/user-attachments/assets/c87d168d-6e55-498e-8e8c-99d004e9c66a" />
 
 ## CLIENT:
 <img width="1920" height="1020" alt="Screenshot 2026-05-20 105426" src="https://github.com/user-attachments/assets/09393774-4d12-42a9-8320-df1939859254" />
